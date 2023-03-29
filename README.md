@@ -11,7 +11,7 @@ Contents:
 - run_HIA_gridded.py, calculates attributable mortality for annual average PM2.5 and O3 in the BAU and COV cases using a health impact assessment
 - mk_figures_4Jian.py, creates figure 4 in the manuscript
 - ODell_udf_Jian.py, contains functions used in other scripts 
-- covid_hia_pyenv.txt, python3 environment used to run these scripts
+- covid_hia_env.yaml, python3 environment used to run these scripts
 
 ## To recreate HIA analysis and Figure 4 in the manuscript run the scripts in this folder in the following order:
 
@@ -79,7 +79,7 @@ Outputs:
 #### ODell_udf_Jian.py
 Contains functions used in other scripts 
 
-#### covid_hia_pyenv.txt
+#### covid_hia_env.yaml
 Python3 environment used to run these scripts.
 
 ### Details on dataset access dates and download parameters
